@@ -1,9 +1,7 @@
 token: auth_token=eyJldCI6MTYyMDI5NTEzOCwiZ2lkIjo2NCwidWlkIjoyNDQwMTZ9.BgJg7TMWuPevwkuGQOotkmHjMW4XCeErh1l3CMcKy1wwwhdmF+Pmq9cRhEL1Nr6qlMm9vVdGGW+qe1MjBhHMH63QiPEOR4gcSocZuaWr6regnrvnzJiWOaSxdbES2syezTNlaIJm7gObsNucUA+kUBsLPw09ZZ6Fe+8L11WvMrwgbniAjAahyUN5tvFdQW7MT94SFnng7x3RRrLJUbB3ppgBbpoKHtQfFhs+QCMaVE6Q8kZwe+2YFirFudcqlq984N28vNVzQWSeI4oatwgXTeRShiMW0AVY3BKEqCAfRebmHJ2vqBVcxLQNfAl2xsDjR/pq1rvF/NrCJQRR0TBwJA==
 path:
-- G:/final
-- D:/final
-- I:/plot
-minerName: DESKTOP-HOJ3V00
+- /data
+minerName: huawei
 apiKey: eb22d738-caea-40fd-bb9e-062d96d0fe85
 cachePath: ""
 deviceId: ""
